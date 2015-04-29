@@ -1,7 +1,7 @@
 {
   "name": "Butterfly",
   "main": "./lib/butterfly",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Harness the power of the butterfly like a real programmer.",
   "activationCommands": {
     "atom-workspace": "butterfly:toggle"
@@ -11,6 +11,5 @@
   "engines": {
     "atom": ">=0.174.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
