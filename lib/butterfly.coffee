@@ -30,7 +30,7 @@ module.exports = Butterfly =
       alert "Successfully flipped one bit!"
     else
       alert "It's time to teach you how to be a true programmer"
-      window.load "http://xkcd.com/378"
+      window.open "http://xkcd.com/378"
 
     if @modalPanel.isVisible()
       @modalPanel.hide()
